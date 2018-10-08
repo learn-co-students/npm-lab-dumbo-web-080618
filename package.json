@@ -1,0 +1,22 @@
+{
+  "name": "node_prac_lab",
+  "version": "1.0.0",
+  "description": "practicing making package.json files",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcelis13/npm-lab-dumbo-web-080618.git"
+  },
+  "author": "Madeline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcelis13/npm-lab-dumbo-web-080618/issues"
+  },
+  "homepage": "https://github.com/mcelis13/npm-lab-dumbo-web-080618#readme"
+}
